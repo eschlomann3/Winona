@@ -9,4 +9,6 @@ When it comes down to food, there are comfort foods like Culver's, McDonalds, Ta
 **3.** Green Mill Restaurant & Bar
 ![Green Mill](https://media-cdn.tripadvisor.com/media/photo-s/0c/92/8e/b9/green-mill-restaurant.jpg "Green Mill Restaurant & Bar")
 
+
 These are just some of the resturnants that are in Winona. 
+___

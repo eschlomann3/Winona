@@ -3,4 +3,4 @@
 
 Winona has many options to do things like eat, hike, kayak, and many more. Continue on to see all the exitment!
 
-[Winona Food](Winona/Winona/Food.md)
+[Winona Food](https://ewelinaschlomann.github.io/Food/)

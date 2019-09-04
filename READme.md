@@ -4,3 +4,7 @@
 Winona has many options to do things like eat, hike, kayak, and many more. Continue on to see all the exitment!
 
 [Winona Food](https://ewelinaschlomann.github.io/Food/)
+
+[Winona Places](https://ewelinaschlomann.github.io/Places/)
+
+[Winona Lakes](

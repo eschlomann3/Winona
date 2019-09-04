@@ -15,5 +15,6 @@ When it comes down to food, there are comfort foods like Culver's, McDonalds, Ta
 These are just some of the resturnants that are in Winona. 
 ___
 
-[Winona Food](Winona/Winona)
-[Winona Food](Winona/Places)
+[Winona Home](Winona/Winona)
+
+[Winona Places](Winona/Places)

@@ -7,3 +7,9 @@ summer even if you want to go have a nice picnic or walk around!
 
 ![Lake Park](https://s3.amazonaws.com/visitwinona/wp-content/uploads/2017/01/17053200/Picnic-Spots-Lake-Park-Gallery-Image-1024x683.jpg 
 "Lake Park Trails") 
+
+Then there is a Broken Paddle company that offers tours and rentals for kayaking and paddle boarding! While traveling this rich and relaxing stretch of the undisturbed Mississippi, this provides an adventure for anyone who attends. Even when your on this relaxing ride, you might even get to see some bald eagles, some rare birds, and some unique animals you don't get to see in everyday life!
+
+![Broken Paddle Company](https://s3.amazonaws.com/visitwinona/wp-content/uploads/2017/01/17050436/Broken-Paddle-kayaking-in-backwaters.jpg 
+"Picture of the relaxing kayaking journey")
+

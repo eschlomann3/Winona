@@ -9,4 +9,3 @@ Winona has many options to do things like eat, hike, kayak, and many more. Conti
 
 [Winona Lakes](https://ewelinaschlomann.github.io/Lake/)
 
-[Winona](

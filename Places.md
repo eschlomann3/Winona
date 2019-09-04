@@ -13,3 +13,7 @@ sure you don't have any plans later becasue there is a lot of beautiful sights a
 "Garvin Heights Lookout")
 ![Garvin Heights Stairs](https://s3.amazonaws.com/visitwinona/wp-content/uploads/2017/01/17053211/garvin_heights1.jpg " Stairs from top to
 bottom of Garvin Heights")
+
+Then Sugar Loaf! This is a lot of history behind this landmark. It was a result of a quarry in the late 1800s and the bluff has an old Native American legend that paints the rock as the cap od Dakota Cheif Wapahsha. Sugar loaf reaches nearly **85 feet** tall, giving it the most distinguishing landmark. There are hiking trails leading to the bottom of the main land mark. The way to reach the top is to rock climb with gear but you can climb with your own risk if you want to free climb.
+
+![Sugar Loaf](https://s3.amazonaws.com/visitwinona/wp-content/uploads/2017/01/17053225/Hiking-Biking-Trails-Sugar-Loaf-Bluff-Gallery-Image-683x1024.jpg " Picture of Sugar Loaf from across the road.")

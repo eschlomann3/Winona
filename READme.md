@@ -3,4 +3,4 @@
 
 Winona has many options to do things like eat, hike, kayak, and many more. Continue on to see all the exitment!
 
-[Winona Food](wwww.google.com)
+[Winona Food](Food.md)

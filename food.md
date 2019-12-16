@@ -18,9 +18,9 @@ When it comes down to food, there are comfort foods like Culver's, McDonald's, T
 These are just some of the restaurants that are in Winona. 
 
 
-[Winona Places](places.md)
+[Places](places.md)
 
-[Winona Lakes](lake.md)
+[Lakes](lakes.md)
 
-[Home](winona.md)
+[Winona](winona.md)
 

@@ -7,4 +7,4 @@ Winona has many options to do things like eating, hike, kayak, and many more. Co
 
 [Winona Places](places.md)
 
-[Winona Lakes](lakes.md)
+[Winona Lakes](lake.md)

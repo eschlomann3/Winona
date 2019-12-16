@@ -17,8 +17,8 @@ Then Sugar Loaf! This is a lot of history behind this landmark. It was a result 
 ![Sugar Loaf](https://s3.amazonaws.com/visitwinona/wp-content/uploads/2017/01/17053225/Hiking-Biking-Trails-Sugar-Loaf-Bluff-Gallery-Image-683x1024.jpg " Picture of Sugar Loaf from across the road.")
 
 
-[Winona Lakes](lake.md)
+[Lakes](lakes.md)
 
-[Home](winona.md)
+[Winona](winona.md)
 
-[Winona Food](food.md)
+[Food](food.md)

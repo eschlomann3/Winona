@@ -22,5 +22,5 @@ These are just some of the restaurants that are in Winona.
 
 [Winona Lakes](lakes.md)
 
-[Home](Read.md)
+[Home](winona.md)
 

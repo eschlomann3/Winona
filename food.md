@@ -20,7 +20,7 @@ These are just some of the restaurants that are in Winona.
 
 [Winona Places](places.md)
 
-[Winona Lakes](lakes.md)
+[Winona Lakes](lake.md)
 
 [Home](winona.md)
 

@@ -11,8 +11,8 @@ Then there is a Broken Paddle company that offers tours and rentals for kayaking
 ![Broken Paddle Company](https://s3.amazonaws.com/visitwinona/wp-content/uploads/2017/01/17050436/Broken-Paddle-kayaking-in-backwaters.jpg 
 "Picture of the relaxing kayaking journey")
 
-[Home](winona.md)
+[Winona](winona.md)
 
-[Winona Food](food.md)
+[Food](food.md)
 
-[Winona Places](places.md)
+[Places](places.md)

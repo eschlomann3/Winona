@@ -3,8 +3,8 @@
 
 Winona has many options to do things like eating, hike, kayak, and many more. Continue to see all the excitement!
 
-[Winona Food](https://ewelinaschlomann.github.io/Food/)
+[Winona Food](food.md)
 
-[Winona Places](https://ewelinaschlomann.github.io/Places/)
+[Winona Places](places.md)
 
-[Winona Lakes](https://ewelinaschlomann.github.io/Lake/)
+[Winona Lakes](lakes.md)

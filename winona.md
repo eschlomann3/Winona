@@ -3,8 +3,8 @@
 
 Winona has many options to do things like eating, hike, kayak, and many more. Continue to see all the excitement!
 
-[Winona Food](food.md)
+[Food](food.md)
 
-[Winona Places](places.md)
+[Places](places.md)
 
-[Winona Lakes](lake.md)
+[Lakes](lakes.md)
